@@ -81,6 +81,19 @@ h1{
 
 /*Botones*/
 
+.bo{
+
+	margin:10px;
+	background-color: lime;
+	border: 2px solid black;
+	border-radius: 6px; 
+	width: 180px;
+	height: 50%;
+	font-size: 20px	;
+	font-family: algerian;
+
+}
+
 .btn1{
 	/*margin:10px;*/
 	background-color: lime;
